@@ -1,0 +1,112 @@
+body {
+  background-color: #edf2f9;
+  font-family: Inter;
+}
+.rec_bars {
+  width: 20px;
+  height: 5px;
+  margin: 2px 10px 0 5px;
+  border-radius: 1px;
+  background-color: #c4c4c4;
+}
+.content {
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  padding: 10px;
+}
+.search {
+  font-family: poppins;
+  width: 204px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  border: none;
+}
+.ellipse {
+  width: 35px;
+  height: 35px;
+  border-radius: 100px;
+}
+.vertical_line {
+  width: 1px;
+  height: 640px;
+  opacity: 0.3;
+  background-color: black;
+  margin-left: 2%;
+}
+.line {
+  width: 2px;
+  height: 17px;
+  opacity: 0.5;
+  background-color: black;
+}
+.b-color {
+  width: 2px;
+  height: 20px;
+  color: black;
+}
+.text {
+  width: 84px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+}
+.bold-text {
+  width: 119px;
+  height: 48px;
+  font-size: 40px;
+  font-weight: 600;
+}
+.container {
+  border-radius: 5px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  width: 40%;
+}
+.rectangle-box {
+  width: 55px;
+  height: 24px;
+  padding: 5px 9px 1px 6px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.rec-green {
+  background-color: #3ed319;
+  color: #1f7509;
+}
+.rec-blue {
+  background-color: #1fa7f4;
+  color: #035381;
+}
+.img-size {
+  width: 108px;
+  height: 95px;
+}
+.blue_ellipse {
+  width: 15px;
+  height: 15px;
+  border-radius: 100px;
+}
+.bg_blue {
+  background-color: #319cea;
+}
+.orange_fonts {
+  width: 385px;
+  height: 29px;
+  margin: 0 0 5px;
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  color: #f59729;
+}
+.ellipses {
+  width: 30px;
+  height: 30px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+}
+.image-size {
+  width: 179px;
+  height: 164px;
+  margin-left: 30%;
+}
